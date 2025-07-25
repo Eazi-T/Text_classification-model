@@ -11,3 +11,5 @@ Develop an NLP-powered machine learning model that categorizes news articles int
 - Learn to use NLP libraries like NLTK, spaCy, and Hugging Face Transformers.
 - Experiment with NLP-specific models such as LSTM, BERT, or other transformer-based models.
 - Gain experience in deploying NLP models via APIs.
+
+The AG News Classification CSV file from Kaggle was used for this project [Dataset](https://www.kaggle.com/code/haggaghaggag/ag-news-classification-dataset)
